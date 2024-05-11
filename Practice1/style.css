@@ -1,0 +1,35 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.left-head{
+    width: 20%;
+    padding: 20px;
+    background: #e3e3e3;
+}
+.right-head{
+    width: 30%;
+    padding: 20px;
+    background: #e3e3e3;
+}
+.card{
+    background: #e3e3e3;
+    margin: 5px 0rem;
+}
+.card1{
+    height: 30vh;
+}
+.card2,.card3{
+    height: 30vh;
+    display: flex;
+    justify-content: space-between;
+}
+.sub1-2,.sub2-3{
+    width: 30%;
+}
+.sub1-2,.sub1-3{
+    margin-right: 10px;
+}
+.sub2-2,.sub1-3{
+    width: 70%;
+}
