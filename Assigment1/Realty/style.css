@@ -1,3 +1,6 @@
+body{
+    margin: 0;
+}
 .footer,.header{
     background: #e3e3e3;
     height: 6vh;

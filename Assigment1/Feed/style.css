@@ -1,3 +1,6 @@
+body{
+    margin: 0;
+}
 .header,.footer{
     background: #e3e3e3;
     height: 10vh;
@@ -35,4 +38,11 @@
 }
 .left-80{
     width: 100%;
+}
+.right{
+    width: 10%;
+    height: 60vh;
+}
+.left{
+    width: 10%;
 }
