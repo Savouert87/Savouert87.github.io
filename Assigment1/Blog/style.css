@@ -1,0 +1,20 @@
+.header,.footer{
+    background: #e3e3e3;
+    height: 10vh;
+}
+.m5{
+    margin: 5px 0;
+}
+.body{
+    height: 80vh;
+    display: flex;
+}
+.right{
+    background: #e3e3e3;
+    width: 90%;
+    margin-right: 5px;
+}
+.left{
+    background: #e3e3e3;
+    width: 10%;
+}

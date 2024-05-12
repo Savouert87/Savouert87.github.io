@@ -1,0 +1,38 @@
+.header,.footer{
+    background: #e3e3e3;
+    height: 10vh;
+}
+.m5{
+    margin: 5px 0;
+}
+.body{
+    height: 77vh;
+    display: flex;
+}
+.card{
+    background: #e3e3e3;
+}
+.card1{
+    height:20vh ;
+    margin-bottom: 5px;
+}
+.card2{
+    height: 30vh;
+}
+.content{
+    width: 90%;
+    margin: 0 10px;
+}
+.card-content{
+    display: flex;
+    margin:10px 0 ;
+}  
+
+.right-10{
+    width: 2%;
+    margin: 0 10px;
+    padding: 1.5rem;
+}
+.left-80{
+    width: 100%;
+}

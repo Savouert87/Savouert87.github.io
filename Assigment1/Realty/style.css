@@ -1,0 +1,39 @@
+.footer,.header{
+    background: #e3e3e3;
+    height: 6vh;
+}
+.card{
+    background: #e3e3e3;
+    margin: 5px 0rem;
+}
+.card1{
+    height: 35vh;
+}
+.card2{
+    height: 55vh;
+    display: flex;
+    justify-content: space-between;
+}
+.sub1-2{
+    width: 20%;
+    margin-right: 10px;
+}
+.sub2-2{
+    width: 80%;
+}
+.m5{
+    margin: 5px 0;
+}
+.col1{
+    height: 40vh;
+}
+.col2{
+    display: flex;
+}
+.sub-col1,.sub-col2{
+    height: 12vh;
+    width: 50%;
+}
+.sub-col1{
+    margin-right: 10px;
+}

@@ -1,0 +1,51 @@
+.footer,.header{
+    background: #e3e3e3;
+    height: 6vh;
+}
+.left-head{
+    width: 20%;
+    padding: 20px;
+    background: #e3e3e3;
+}
+.right-head{
+    width: 30%;
+    padding: 20px;
+    background: #e3e3e3;
+}
+.card{
+    background: #e3e3e3;
+    margin: 5px 0rem;
+}
+.card1{
+    height: 30vh;
+}
+.card2{
+    height: 45vh;
+    display: flex;
+    justify-content: space-between;
+}
+.sub1{
+    width: 70%;
+    margin-right: 10px;
+}
+.m5{
+    margin: 5px 0;
+}
+.sub2{
+    width: 30%;
+}
+.sub2-1{
+    display: flex;
+}
+.col1,.col3{
+    width: 30%;
+    height: 21vh;
+}
+.col2{
+    width: 40%;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.card3{
+    height: 10vh;
+}

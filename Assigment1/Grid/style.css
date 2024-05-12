@@ -1,0 +1,47 @@
+.header,.footer{
+    background: #e3e3e3;
+    height: 6vh;
+}
+.content1,.content2,.content3,.content4{
+    display: flex;
+    margin: 10px 0;
+}
+.card1,.card3{
+    width: 20%;
+    
+}
+.card2{
+    width: 80%;
+    margin: 0 1rem;
+}
+.card{
+    background: #e3e3e3;
+    height: 20vh;
+}
+.card1-2{
+    width: 50%;
+}
+.card2-2{
+    width: 20%;
+    margin: 0 1rem;
+}
+.card3-2{
+    width: 30%;
+}
+.card1-3,.card3-3{
+    width: 25%;
+}
+.card2-3{
+    width: 50%;
+    margin: 0 1rem;
+}
+.card1-4{
+    width: 50%;
+}
+.card2-4{
+    width: 20%;
+    margin: 0 1rem;
+}
+.card3-4{
+    width: 30%;
+}

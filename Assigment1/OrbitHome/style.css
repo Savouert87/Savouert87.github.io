@@ -1,0 +1,43 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.footer{
+    background: #e3e3e3;
+    height: 6vh;
+}
+.left-head{
+    width: 20%;
+    padding: 20px;
+    background: #e3e3e3;
+}
+.right-head{
+    width: 30%;
+    padding: 20px;
+    background: #e3e3e3;
+}
+.card{
+    background: #e3e3e3;
+    margin: 5px 0rem;
+}
+.card1{
+    height: 30vh;
+}
+.card2{
+    height: 55vh;
+    display: flex;
+    justify-content: space-between;
+}
+.sub1-2{
+    width: 25%;
+}
+.sub2-2{
+    width: 50%;
+    margin: 5px 10px;
+}
+.sub3-2{
+    width: 25%;
+}
+.m5{
+    margin: 5px 0;
+}
