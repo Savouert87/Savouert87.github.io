@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="jquery-3.7.1.min.js"></script>
+</head>
+<body>
+    <div id="myajax"></div>
+    <script>
+         $(document).ready(function(){
+                $.ajax({
+                    url:"http://localhost:8080",
+                    type: "GET",
+                    success: function(data) {
+                        $('#myajax').html(data);
+                    }
+                });
+            });
+    </script>
+</body>
+</html>

@@ -1,0 +1,12 @@
+1) Consider the project name.
+2) List features (modules)
+
+Project Name: VouertVibe (Personal Website)
+
+Features
+1. Myself introduction
+2. About Me ( my background, Education, Career and Skills)
+3.Project I have done
+4.My Resume
+5.My Blog
+6.Contact Form

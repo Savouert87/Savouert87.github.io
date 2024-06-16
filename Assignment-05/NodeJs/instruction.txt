@@ -1,0 +1,2 @@
+1) Create http using Nodejs and response "Hello world" to client.
+2) Using Ajax to request to Server(nodejs) to get "Hello world" and display on the browser.
