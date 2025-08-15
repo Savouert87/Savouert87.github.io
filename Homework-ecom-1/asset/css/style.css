@@ -1,0 +1,9 @@
+body{
+    font-family: "Roboto Condensed", sans-serif;
+}
+.navbar-collapse{
+    flex-grow: 0 !important;
+}
+.bg-danger{
+    font-size: 7px;
+}
